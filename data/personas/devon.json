@@ -1,0 +1,24 @@
+{
+  "name": "Devon",
+  "age": 24,
+  "year": "Graduate Year 1",
+  "major": "Education Policy (M.Ed.)",
+  "context": "Highly articulate about career goals — wants to work in education equity consulting for school districts. Frustrated by theory-heavy assignments that feel disconnected from practice. Wants community-facing, case-based work.",
+  "career_goals": "Education equity consultant; school district partnerships; policy implementation rather than policy analysis",
+  "values": "Practical impact over theoretical rigor; amplifying community voice in policy decisions; working directly with teachers and families rather than writing for academics",
+  "meta_learning": "Learns through case analysis and practitioner conversation. Policy papers feel inert without a real organization behind them. Needs to connect new concepts to real practitioners immediately.",
+  "current_courses": ["Education Policy Foundations", "Research Methods", "Organizational Change"],
+  "advisor_notes": "Strong writer. Visibly disengaged in Policy Foundations course — describes it as 'reading about problems instead of solving them.' Has connections to two local school districts from prior work experience as a program coordinator.",
+  "challenge_for_agent": "Devon's goals are clear and well-articulated — the challenge is connecting them to institutionally constrained coursework without overpromising what faculty will accept. Risk: agent produces alternatives the institution won't approve.",
+  "goal_snapshot": {
+    "career": "Education equity consultant serving K-12 school districts on policy implementation",
+    "values": "Practical community impact; amplifying practitioner voice in policy",
+    "meta_learning": "Learns through case analysis and direct practitioner engagement"
+  },
+  "prior_sessions": [
+    {
+      "date": "2026-03-10",
+      "notes": "Completed all 3 passes of goal-excavation. Learning snapshot finalized above. Learning plan not yet generated — Devon wants to check in with district contacts before committing to a community project."
+    }
+  ]
+}

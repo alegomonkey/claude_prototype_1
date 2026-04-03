@@ -1,0 +1,15 @@
+{
+  "name": "Amara",
+  "age": 20,
+  "year": "Sophomore",
+  "major": "Computer Science",
+  "context": "First-generation college student. Parents immigrated from Ghana; they expect 'software engineer at a big company.' Amara cares deeply about food security in her neighborhood but has never articulated this as a career goal — it feels incompatible with CS. Learns by building things for people she knows personally.",
+  "career_goals": "Vague/suppressed — says 'software engineer' to satisfy parents, but lights up when talking about community tech projects",
+  "values": "Community service, food justice, staying connected to her neighborhood after graduation",
+  "meta_learning": "Learns by doing; needs a real person or community as the end-user to stay motivated; struggles with abstract problem sets disconnected from human impact",
+  "current_courses": ["Data Structures", "Systems Programming", "Technical Writing"],
+  "advisor_notes": "Has not declared a concentration. Very quiet in class. Exceptional project quality when the problem is concrete and community-facing. Her aunt runs a food pantry in her neighborhood with a manual inventory system she has mentioned twice.",
+  "challenge_for_agent": "Excavating goals that feel forbidden or unformulated due to family and cultural pressure. Pass 1 will surface the expected answer. Passes 2 and 3 will surface the real one.",
+  "goal_snapshot": null,
+  "prior_sessions": []
+}

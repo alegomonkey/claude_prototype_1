@@ -1,0 +1,15 @@
+{
+  "name": "Tyler",
+  "age": 19,
+  "year": "Sophomore",
+  "major": "Undeclared",
+  "context": "Plays in a band, interested in sound engineering and music technology. Sees no connection between his interests and any available major. Registers as goalless or unmotivated but is actually a deep systems thinker who learns by ear and pattern rather than by reading.",
+  "career_goals": "Unknown to himself — says 'I don't know' or 'something with music maybe.' Has never been asked to describe what he builds or why.",
+  "values": "Creative expression; understanding how systems work and interact; building things you can hear and feel, not just see on a screen",
+  "meta_learning": "Learns by ear and by pattern recognition. Reading textbooks alone does nothing for him. Needs to encounter a concept through practice or demonstration before he can engage with its theory. Labs click; lectures don't.",
+  "current_courses": ["Introduction to Computing", "Calculus I", "First-Year Seminar"],
+  "advisor_notes": "Regularly absent from lecture but aces labs. Has built two DIY synthesizers from circuit diagrams he found online. Advisor suspects an undiagnosed auditory or kinesthetic learning difference. Has never been referred to accessibility services.",
+  "challenge_for_agent": "Do not accept 'I don't know' or 'I want to help people' as sufficient goals. Pass 1 will stall — this is normal. Passes 2 and 3 are where Tyler's actual strengths and interests emerge. Resist the urge to assign a conventional path.",
+  "goal_snapshot": null,
+  "prior_sessions": []
+}
