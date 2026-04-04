@@ -14,18 +14,25 @@ Before generating the plan, read back the learning snapshot:
 
 If the advisor corrects anything, update the snapshot before proceeding.
 
-### Step 2 — Map goals to courses
+### Step 2 — Map goals to courses and show the connection
+
 For each current course, identify:
 1. **The standard learning objectives** — what the course is officially trying to teach
-2. **The connection to the student's goals** — which goal dimension does this course serve, even loosely?
-3. **An alternative framing** — how could the student pursue the same learning objectives through a lens that connects to their career, values, or learning style?
+2. **Why this course matters for this student's specific goal** — state it explicitly so the student can see it, not just infer it
+3. **An alternative framing** — how they could pursue the same objectives through a lens that connects to their career, values, or learning style
+
+The "why this matters" line is not optional. Students who feel disconnected from their coursework often don't need different assignments — they need to see the bridge between what they're doing now and where they're going. Name it.
 
 Format:
 
 > **[Course name]**
+> - Why this matters for your goal: [1 sentence directly connecting this course's content to the student's stated career/values/learning direction]
 > - Standard objective: [what the course teaches]
-> - Goal connection: [how this links to career / values / meta-learning]
+> - Goal connection: [which goal dimension this serves]
 > - Alternative assignment idea: [concrete, specific, 1–2 sentences]
+
+Example of a good "why this matters" line:
+> "Data Structures is teaching you the building blocks of every inventory and routing system ever built — the linked list problem set is literally how food banks manage their distribution networks."
 
 ### Step 3 — Propose the alternative assignment
 Alternative assignments must:
@@ -41,15 +48,21 @@ Examples of good alternatives:
 - Replace an individual exam with a portfolio of applied work (only where the instructor has discretion)
 
 ### Step 4 — Institutional constraint check
-Before presenting the plan, run through this checklist aloud:
 
-> Before we treat this as final, let me flag a few things to verify:
-> 1. Does any of these courses have accreditation, licensure, or program-requirement constraints on how assessments must be delivered?
-> 2. Does the instructor have discretion to accept alternative formats, or does that require department approval?
-> 3. Are any of these courses shared with a co-instructor or a standardized syllabus across sections?
-> 4. Does the student's degree program require specific competency demonstrations that can't be substituted?
+Before presenting the plan, ask one focused question that covers the essential ground:
 
-**Do not present the plan as viable until the advisor has confirmed or flagged each item.**
+> "Before we treat any of this as a real option: do you know if any of these courses have fixed assessment formats the instructor can't change — like an accredited exam or a standardized syllabus shared across sections?"
+
+If the answer reveals a constraint, note it and flag the affected course clearly:
+> "[Course name]: the alternative may not be available — [constraint]. We'll present the others as options and flag this one as 'check first.'"
+
+If the answer is "I don't know," flag it once and move on:
+> "Worth confirming before you bring it to the instructor. I'll mark that as a 'check first' item."
+
+**One question is enough.** Do not run through a multi-item checklist in conversation — it bogs down the session. The single question captures the highest-risk scenario (accreditation/fixed formats). Other constraints will surface naturally when the advisor talks to faculty.
+
+*Exception:* In advisor mode, if the program is in a field with known accreditation constraints (engineering/ABET, nursing, teacher certification, CPA-track business), proactively name it:
+> "Worth noting — CS programs are often ABET-accredited, which can limit flexibility on exam formats specifically. Assignment alternatives are usually fine; exam substitutions need a conversation."
 
 ### Step 5 — Present the plan
 Present the full plan course by course. After each course entry, pause:
@@ -66,9 +79,10 @@ If yes, invoke `faculty-translation`.
 
 ## Hard Gates
 - NEVER generate a plan before `goal-excavation` has completed at least 2 passes
-- NEVER skip the institutional constraint check
-- NEVER present a plan as final if any constraint is unresolved
+- NEVER skip the institutional constraint check (one focused question, not a multi-item audit)
+- NEVER present a plan as final if a known constraint is unresolved — flag it and move on
 - NEVER generate a plan from a vague goal snapshot — go back to `goal-excavation` if the snapshot is thin
+- NEVER omit the "why this matters for your goal" line per course — this is the motivation bridge the student needs
 
 ## For group plans
 When generating a plan after `student-clustering`, frame the shared experience clearly:
